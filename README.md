@@ -15,3 +15,12 @@ Experiência em elaborar dashboards interativos que permitem a exploração deta
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/GoogleColab-F38020?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-D9B000?style=for-the-badge&logo=Power%20BI&logoColor=FFFFFF&color=D9B000)
+
+### Detalhes
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Larissalcl&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### Projetos
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Larissalcl&repo=Analise_vendas_carros_python.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Larissalcl&repo=E-commerce_estatistica.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
