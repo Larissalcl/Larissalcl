@@ -1,7 +1,7 @@
 ## Olá! Eu sou Larissa Lima :wave::smiley:
 [![Linkedin Badge](https://img.shields.io/badge/-Larissa%20Lima-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/larissa-lima-aa94b065/)
 
-Analista de dados em formação pela EBAC – Escola Britânica de Artes Criativas e Tecnologia com graduação em Farmácia. Profissional com perfil analítico, adaptável e colaborativo. Examino informações detalhadamente, identifico padrões, chego a conclusões lógicas e embasadas, ajusto-me facilmente a novas situações, aprendo rapidamente, lido bem com mudanças e imprevistos, trabalho bem em equipe, compartilho conhecimentos e contribuo ativamente para o sucesso do grupo. 
+Analista de dados foramda pela EBAC – Escola Britânica de Artes Criativas e Tecnologia com graduação em Farmácia. Profissional com perfil analítico, adaptável e colaborativo. Examino informações detalhadamente, identifico padrões, chego a conclusões lógicas e embasadas, ajusto-me facilmente a novas situações, aprendo rapidamente, lido bem com mudanças e imprevistos, trabalho bem em equipe, compartilho conhecimentos e contribuo ativamente para o sucesso do grupo. 
 
 Experiência em elaborar dashboards interativos que permitem a exploração detalhada dos dados, acompanhando o desempenho de vendas, o gerenciamento de risco e o sistema de gestão da qualidade da empresa. Estou ampliando minha experiência com análise de dados por meio de projetos práticos.
 
