@@ -1,9 +1,18 @@
 ## Olá! Eu sou Larissa Lima :wave::smiley:
 [![Linkedin Badge](https://img.shields.io/badge/-Larissa%20Lima-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/larissa-lima-aa94b065/)
 
-Analista de dados formada pela EBAC – Escola Britânica de Artes Criativas e Tecnologia com graduação em Farmácia. Profissional com perfil analítico, adaptável e colaborativo. Examino informações detalhadamente, identifico padrões, chego a conclusões lógicas e embasadas, ajusto-me facilmente a novas situações, aprendo rapidamente, lido bem com mudanças e imprevistos, trabalho bem em equipe, compartilho conhecimentos e contribuo ativamente para o sucesso do grupo. 
+Analista de BI com experiência em análise de dados, mapeamento de processos e gestão da qualidade em ambientes regulados. Profissional com perfil analítico, colaborativo e orientado a resultados, atuando na transformação de dados em insights estratégicos para suporte à tomada de decisão e melhoria contínua.
 
-Experiência em elaborar dashboards interativos que permitem a exploração detalhada dos dados, acompanhando o desempenho de vendas, o gerenciamento de risco e o sistema de gestão da qualidade da empresa. Estou ampliando minha experiência com análise de dados por meio de projetos práticos.
+Experiência em levantamento de requisitos, definição de KPIs, modelagem e visualização de dados, ETL e desenvolvimento de dashboards interativos para monitoramento de desempenho operacional e gerencial. Atuação próxima a stakeholders na identificação de oportunidades, otimização de processos e construção de soluções analíticas voltadas à eficiência operacional.
+
+Vivência na implementação e monitoramento de Sistemas de Gestão da Qualidade conforme ISO 9001, suporte a auditorias internas e externas e análise de indicadores com foco em conformidade, redução de riscos e melhoria de performance.
+
+Destaques:
+• Desenvolvimento de dashboards que reduziram o tempo de análise de indicadores em 50%;
+• Implementação de processos e controles com redução de riscos regulatórios em mais de 80%;
+• Experiência com Power BI, Excel, SQL, ETL, data storytelling e visualização de dados;
+• Facilidade de adaptação, aprendizado rápido e atuação em equipes multidisciplinares.
+
 
 
 ## Habilidades
