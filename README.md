@@ -1,17 +1,49 @@
 ## Olá! Eu sou Larissa Lima :wave::smiley:
 [![Linkedin Badge](https://img.shields.io/badge/-Larissa%20Lima-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/larissa-lima-aa94b065/)
 
-Analista de BI com experiência em análise de dados, mapeamento de processos e gestão da qualidade em ambientes regulados. Profissional com perfil analítico, colaborativo e orientado a resultados, atuando na transformação de dados em insights estratégicos para suporte à tomada de decisão e melhoria contínua.
+Dados que orientam decisões e entregam eficiência operacional.
 
-Experiência em levantamento de requisitos, definição de KPIs, modelagem e visualização de dados, ETL e desenvolvimento de dashboards interativos para monitoramento de desempenho operacional e gerencial. Atuação próxima a stakeholders na identificação de oportunidades, otimização de processos e construção de soluções analíticas voltadas à eficiência operacional.
++08 anos construindo resultados em Business Intelligence e qualidade regulatória.
 
-Vivência na implementação e monitoramento de Sistemas de Gestão da Qualidade conforme ISO 9001, suporte a auditorias internas e externas e análise de indicadores com foco em conformidade, redução de riscos e melhoria de performance.
++50 relatórios gerenciais, +2 sistemas de gestão, +60 processos otimizados.
 
-Destaques:
-• Desenvolvimento de dashboards que reduziram o tempo de análise de indicadores em 50%;
-• Implementação de processos e controles com redução de riscos regulatórios em mais de 80%;
-• Experiência com Power BI, Excel, SQL, ETL, data storytelling e visualização de dados;
-• Facilidade de adaptação, aprendizado rápido e atuação em equipes multidisciplinares.
+
+
+Meu trabalho segue uma lógica clara:
+
+Qualidade dos dados → Insights acionáveis → Processos otimizados.
+
+
+
+Atuo onde análise, operação e governança se encontram para reduzir riscos e elevar performance.
+
+✔ Implementação de sistema de gestão da qualidade que atingiu conformidade ISO e reduziu não conformidades em 80%, mitigando riscos regulatórios.
+
+✔ Desenvolvimento de 10 dashboards em Power BI para diretoria e operação, reduzindo em 40% o tempo de interpretação de KPIs e acelerando decisões.
+
+✔ Condução de análises de causa raiz e planos de ação que reduziram o tempo de ciclo operacional em 27%, aumentando capacidade e SLA.
+
+✔ Otimização de consultas SQL e pipelines ETL, reduzindo em 70% o tempo de extração e atualização de relatórios.
+
+✔ Padronização de relatórios e controles que diminui o retrabalho em 55% e elevou a confiabilidade das informações.
+
+
+
+Na prática, como entrego isso?
+
+✔ Com SQL, Power BI, Python e técnicas de análise estatística.
+
+✔ Com Power BI (DAX/Power Query), Excel, Google Sheets, ferramentas de ETL e data warehouse.
+
+✔ Com atuação consistente em melhoria contínua e construção de dashboards executivos.
+
+
+
+Falo Português (nativo), Inglês (Avançado - C1) e Alemão (Intermedário - B1)
+
+
+
+Atualmente aprimorando formação com cursos de Análise de Negócios e Power BI avançado.
 
 
 
